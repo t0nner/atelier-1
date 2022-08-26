@@ -1,0 +1,14 @@
+{
+  "name": "atelier-1",
+  "version": "1.0.0",
+  "description": "atelier-1 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony Boutin-Dufour",
+  "license": "ISC",
+  "dependencies": {
+    "query-string": "^7.1.1"
+  }
+}
